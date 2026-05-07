@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
-Sitemap: https://avm-ceiling-systems.netlify.app/sitemap.xml
-Host: avm-ceiling-systems.netlify.app
+Sitemap: https://avm-ceiling-systems.github.io/avm-ceiling-systems/sitemap.xml
+Host: https://avm-ceiling-systems.github.io/avm-ceiling-systems/
